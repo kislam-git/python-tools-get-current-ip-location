@@ -20,9 +20,10 @@ def get_ip_and_location():
       print(f"Failed to get IP and Location")
 
 
+
 # Main Script
 if __name__== "__main__":
-   #Steo 1 : Get Current IP and Location
+   #Step 1 : Get Current IP and Location
    print ("Getting current IP and Location")
    get_ip_and_location()
 
